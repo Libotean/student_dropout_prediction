@@ -5,6 +5,7 @@ Se vor folosi tehnici de machine learning pentru a prezice daca un student va ab
 **Sursa:** [Student Dropout Prediction Dataset](https://www.kaggle.com/datasets/meharshanali/student-dropout-prediction-dataset/data)
 
 **Variabila tinta:** Dropout (0 = student retinut, 1 = student care a abandonat) - rata de abandon in dataset este de 23.5%.
+
 Principalele caracteristici:
 - Date demografice: varsta, gen, venit familial, educatia parintilor
 - Comportament academic: ore de studiu pe zi, rata de prezenta, intarzieri la teme
