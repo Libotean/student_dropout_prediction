@@ -33,5 +33,5 @@ student_dropout_prediciton/documentatie
 student_dropout_prediciton/src
 ```
 
-Acest director este detinat codului sursa.
+Acest director este destinat codului sursa.
 
